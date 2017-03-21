@@ -1,54 +1,8 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "multirange@github:frc/multirange#1.0.0",
-        "scope": null,
-        "escapedName": "multirange",
-        "name": "multirange",
-        "rawSpec": "github:frc/multirange#1.0.0",
-        "spec": "github:frc/multirange#1.0.0",
-        "type": "hosted",
-        "hosted": {
-          "type": "github",
-          "ssh": "git@github.com:frc/multirange.git#1.0.0",
-          "sshUrl": "git+ssh://git@github.com/frc/multirange.git#1.0.0",
-          "httpsUrl": "git+https://github.com/frc/multirange.git#1.0.0",
-          "gitUrl": "git://github.com/frc/multirange.git#1.0.0",
-          "shortcut": "github:frc/multirange#1.0.0",
-          "directUrl": "https://raw.githubusercontent.com/frc/multirange/1.0.0/package.json"
-        }
-      },
-      "/Users/tonibergholm/Src/omadextra"
-    ]
-  ],
-  "_from": "frc/multirange#1.0.0",
-  "_id": "multirange@1.0.0",
-  "_inCache": true,
-  "_location": "/multirange",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "multirange@github:frc/multirange#1.0.0",
-    "scope": null,
-    "escapedName": "multirange",
-    "name": "multirange",
-    "rawSpec": "github:frc/multirange#1.0.0",
-    "spec": "github:frc/multirange#1.0.0",
-    "type": "hosted",
-    "hosted": {
-      "type": "github",
-      "ssh": "git@github.com:frc/multirange.git#1.0.0",
-      "sshUrl": "git+ssh://git@github.com/frc/multirange.git#1.0.0",
-      "httpsUrl": "git+https://github.com/frc/multirange.git#1.0.0",
-      "gitUrl": "git://github.com/frc/multirange.git#1.0.0",
-      "shortcut": "github:frc/multirange#1.0.0",
-      "directUrl": "https://raw.githubusercontent.com/frc/multirange/1.0.0/package.json"
-    }
-  },
   "dependencies": {},
   "description": "A tiny polyfill for HTML5 multi-handle sliders",
   "devDependencies": {},
-  "gitHead": "0731c7ecb1a211c957cfc9176917cee960722194",
+  "gitHead": "5bff13149ca320d5589db93bf87a14c789ff520d",
   "homepage": "http://leaverou.github.io/multirange/",
   "keywords": [
     "polyfill",
@@ -62,7 +16,7 @@
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeaVerou/multirange.git"
+    "url": "git+https://github.com/frc/multirange.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
